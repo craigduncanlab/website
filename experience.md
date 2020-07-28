@@ -30,6 +30,8 @@ I have written data tools to help process public environmental data including th
 
 I have developed a mobile scoring app (Junior Cricket Scorer, a cricket scoring program for iOS). This has been developed and tested with assistance from parents from a local sporting club.
 
+I have also worked at the WACA in sports administration, handling competition administration and the MyCricket scoring data.
+
 ## Bioinformatics (UWA)
 
 I have worked as a research associate in the field of bioinformatics, which requires a familiarity with biology, genetics and high performance computing. My experience includes administering High Performance Computing architecture, working with single cell genomics data pipelines, and testing COVID-19 related diagnostic tools in an HPC environment, in conjunction with Aiden Lab.
