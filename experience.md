@@ -24,7 +24,7 @@ As a legal data scientist, I study how to structure legal information and incorp
 
 ## Environmental law data
 
-I have written data tools to help process public environmental data including the status of clearing applications and assess clearing approval statistics.
+I have written data tools to help bulk process public environmental data including determining the status of clearing applications and to gather clearing approval statistics.
 
 ## Sport
 
